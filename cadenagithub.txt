@@ -1,0 +1,7 @@
+#Pasos para conexion :$
+
+>d:
+>cd  Documentos
+>cd SpringFBA
+>cd appcinecibertec
+>git init
